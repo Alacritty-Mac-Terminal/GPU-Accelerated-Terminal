@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tammybutle.github.io/.github/alacritty">  
+<a href="https://crissyarp.github.io/.github/alacritty">  
 <img src="https://img.shields.io/badge/Get_Alacritty-darkgreen?style=for-the-badge&logo=apple" alt="Get Alacritty">  
 </a>  
 </div>  
